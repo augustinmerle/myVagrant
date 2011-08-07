@@ -1,0 +1,11 @@
+###### Debian Main Repos
+deb http://ftp.fr.debian.org/debian/ squeeze main contrib
+deb-src http://ftp.fr.debian.org/debian/ squeeze main contrib
+
+###### Debian Update Repos
+deb http://security.debian.org/ squeeze/updates main contrib
+deb-src http://security.debian.org/ squeeze/updates main contrib
+
+###### Dotdeb
+deb http://packages.dotdeb.org stable all
+deb-src http://packages.dotdeb.org stable all
